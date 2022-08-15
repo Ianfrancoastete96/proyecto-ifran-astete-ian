@@ -10,7 +10,7 @@
 
 /* estilos generales */
 body {
-    background-color: bisque;
+    background-color: rgba(95, 31, 185, 0.444);
 }
 
 
@@ -67,23 +67,23 @@ body {
 }
 
 .encabezado__menu--lista--linea--index{
-    background-image: linear-gradient(to left, #daa000, #353535, #ffc118);
+    background-image: linear-gradient(to left, #daa000, #353535, #ff8018);
 }
 
 .encabezado__menu--lista--linea--proyectos{
-    background-image: linear-gradient(to left, #daa000, #353535, #ffc118);
+    background-image: linear-gradient(to left, #daa000, #353535, #ff8018);
 }
 
 .encabezado__menu--lista--linea--fotos{
-    background-image: linear-gradient(to left, #daa000, #353535, #ffc118);
+    background-image: linear-gradient(to left, #daa000, #353535, #ff8018);
 }
          
 .encabezado__menu--lista--linea--nosotros{
-    background-image: linear-gradient(to left, #daa000, #353535, #ffc118);
+    background-image: linear-gradient(to left, #daa000, #353535, #ff8018);
 }
 
 .encabezado__menu--lista--linea--contacto{
-    background-image: linear-gradient(to left, #daa000, #353535, #ffc118);
+    background-image: linear-gradient(to left, #daa000, #353535, #ff8018);
 }
 
 
